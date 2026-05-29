@@ -4,7 +4,6 @@
 int main() {
 
     char ch;
-
     printf("Enter capital letter: ");
     scanf("%c", &ch);
 
