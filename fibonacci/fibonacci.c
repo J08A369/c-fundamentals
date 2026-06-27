@@ -14,7 +14,8 @@ int main()
         a=b;
         b=c;
     }
+    
     return 0;
 }
 /// element = 1,1,2,3
-///
+
